@@ -16,9 +16,12 @@ A Java-based desktop application for booking metro tickets, viewing schedules, a
 
 🛠️ Technologies Used
 
-Java (Swing & AWT): GUI development
-MySQL: Data persistence
-JDBC: Java Database Connectivity
-IntelliJ IDE: Development IDE
+# Java (Swing & AWT): GUI development
+
+# MySQL: Data persistence
+
+# JDBC: Java Database Connectivity
+
+# IntelliJ IDE: Development IDE
 
 ---
